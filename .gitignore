@@ -1,0 +1,13 @@
+﻿# Obsidian 配置（本机相关，不同步）
+.obsidian/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时目录
+.trash/
+
+# AI 插件本地数据（不进仓库）
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
